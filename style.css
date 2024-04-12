@@ -68,6 +68,4 @@ border-bottom: 40px solid var(--verde);
     border-radius: 0 0 40px 40px;
 }
 .aba-conteudo.ativo{
-    display: block;
-
-}
+    display: block
